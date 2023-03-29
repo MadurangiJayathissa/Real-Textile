@@ -1,7 +1,7 @@
 # Real-Textile
 
 <p align="center" >
-<img style="background-color: #fff; border-radius: 50%;" src="https://drive.google.com/file/d/15qkdyDtFrtOmNkg7LvwThK86-rL-uSTp/view?usp=share_link" width="30%" height="30%">
+<img style="background-color: #fff; border-radius: 50%;" src="https://github.com/MadurangiJayathissa/Real-Textile/blob/main/ss.jpeg" width="75%" height="30%">
 </p>
 
 
